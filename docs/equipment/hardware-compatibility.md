@@ -13,6 +13,7 @@
 |   Defender    |                                            Warhead GM-1780                                             | :green_circle: |                                   -                                   |     -      |
 |   Logitech    | [G102](https://www.logitechg.com/en-my/products/gaming-mice/g102-prodigy-gaming-mouse.910-004846.html) | :green_circle: |                          [`piper`](piper.md)                          |     -      |
 |   Logitech    |                                                  M705                                                  | :green_circle: |                                   -                                   |     -      |
+|   Logitech    |                                              MX Master 3S                                              | :green_circle: |                                   -                                   |     -      |
 |   Logitech    |                                              MX Master 3                                               | :green_circle: | [`piper`](piper.md), [`Solaar`](https://pwr-solaar.github.io/Solaar/) |     -      |
 |    Xiaomi     | [Dual Mode Wireless Mouse Silent Edition](https://www.mi.com/ru/product/mi-dual-mode-wireless-mouse/)  | :green_circle: |                                   -                                   |     -      |
 |  Дарк прожект x VXE | R1 PRO Max Grey | :green_circle: | - | - |
@@ -105,6 +106,7 @@
 |    Бештау     |     M27/2KP      |    HDMI, DP     | :green_circle: |     QHD165HZ(HDMI,DP)      |
 |    iiyama     |     PL2792Q      |    HDMI, DP     | :green_circle: | QHD60HZ(HDMI), QHD70HZ(DP) |
 |      LG       |     24MK430H     |      HDMI       | :green_circle: |          FHD75HZ           |
+|      LG       |    27UL650-W     |      HDMI, DP   | :green_circle: |          UHD60HZ           |
 |    Xiaomi     | Redmi Display 27 |      HDMI       | :green_circle: |          FHD75HZ           |
 
 ### Графические планшеты
@@ -117,7 +119,7 @@
 
 | Производитель | Модель | Состояние | ПО  | Примечание |
 | :-----------: | :----: | :-------: | :-: | :--------: |
-|       -       |   -    |     -     |  -  |     -      |
+|      HP      |Deskjet 2320 |:green_circle:|  -  |     -      |
 
 ### Сканеры
 
@@ -150,9 +152,9 @@
 
 #### Intel
 
-| Модель | Состояние | Примечание |
-| :----: | :-------: | :--------: |
-|   -    |     -     |     -      |
+| Модель |    Состояние   | Примечание |
+| :----: |    :-------:   | :--------: |
+|i5 13500| :green_circle: |     -      |
 
 #### AARCH64 (ARM64)
 
@@ -169,6 +171,7 @@
 | :------: | :------------: | :-----: | :------------: | :--------: |
 |  ASRock  | Radeon RX 6400 | AMDGPU  | :green_circle: |     -      |
 | SAPPHIRE | Radeon RX 570  | AMDGPU  | :green_circle: |     -      |
+| SAPPHIRE |Radeon RX 7900XT| AMDGPU  | :green_circle: |     -      |
 
 #### NVIDIA
 
